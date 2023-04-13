@@ -30,4 +30,3 @@ module.exports = {
   dateSample
 };
 
-console.log(dateSample('-52892'));
